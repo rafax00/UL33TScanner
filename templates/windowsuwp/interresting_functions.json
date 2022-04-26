@@ -1,0 +1,16 @@
+{
+    "name": "Interesting functions",
+    "type": "string",
+    "content":{
+        "JSON Deserialization": ".DeserializeObject",
+        "Http Request": "HttpWebRequest.Create(",
+        "SSH Connection": ".AuthenticatePwAsync(",
+        "Code Evaluation": ".Eval(",
+        "WebView": "WebView",
+        "webView ": "webView",
+        "WebView access to runtime APIs enabled": "WindowsRuntimeAccess=\"all\"",
+        "Javascript Evaluation": ".InvokeScript",
+        "Runtime API Injection on WebView": ".AddWebAllowedObject(",
+        "File Manipulation": ".GetFileAsync("
+    }
+}

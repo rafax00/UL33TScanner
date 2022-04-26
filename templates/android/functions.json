@@ -1,0 +1,30 @@
+{
+    "name": "Interesting functions",
+    "type": "string",
+    "content":{
+        "clearCallingIdentity()": "Binder.clearCallingIdentity()",
+        "startsWith()": ".startsWith(",
+        "equalsIgnoreCase()": ".equalsIgnoreCase(",
+        "endsWith()": ".endsWith(",
+        "evaluateJavascript()": "evaluateJavascript(",
+        "WebView": "import android.webkit.WebView",
+        "Sdcard": "/sdcard",
+        "Register Receiver in run time": ".registerReceiver(",
+        "Download Cahe Dir": ".getDownloadCacheDirectory()",
+        "External Storage Function": ".getExternalStorage",
+        "Exec SQL": ".execSQL(",
+        "Dao SQLite Query": "SimpleSQLiteQuery(",
+        "Dao RawQuery": "RawQuery(",
+        "SqliteDatabase rawQuery":".rawQuery(",
+        "SqliteDatabase rawQuery with factory": ".rawQueryWithFactory(",
+        "MD5 1": ".getInstance(\"MD5\"",
+        "MD5 2": ".getInstance('MD5'",
+        "Insecure Random": "new Random()",
+        "SHA-1 1": ".getInstance(\"SHA-1\"",
+        "SHA-1 2": ".getInstance('SHA-1'",
+        "SHA-1 3": ".getInstance(\"SHA1",
+        "SHA-1 4": ".getInstance('SHA1",
+        "CustomTab": "CustomTabsIntent"
+    }
+}
+
