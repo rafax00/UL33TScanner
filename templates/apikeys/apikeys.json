@@ -13,7 +13,7 @@
         "facebook_access_token": "EAACEdEose0cBA[0-9A-Za-z]+",
         "authorization_basic": "(?i)basic\\s*[a-zA-Z0-9=:_\\+\/-]+",
         "authorization_bearer": "(?i)bearer\\s*[a-zA-Z0-9_\\-\\.=:_\\+\/]+",
-        "authorization_api": "(?i)api[key|\\s*]+[a-zA-Z0-9_\\-]+",
+        "authorization_api": "(?i)api(?:key|\\s*)+[a-zA-Z0-9_\\-]+", 
         "mailgun_api_key": "(?i)key-[0-9a-zA-Z]{32}",
         "twilio_api_key": "SK[0-9a-fA-F]{32}",
         "twilio_account_sid": "AC[a-zA-Z0-9_\\-]{32}",
