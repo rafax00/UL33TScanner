@@ -4,7 +4,7 @@
     "content":{
         "window.location": "location.",
         "URLSearchParams": "new URLSearchParams(",
-        "Post message listener": ["addEventListener('message'","addEventListener(\"message\""],
+        "Post message listener": ["addEventListener('message'","addEventListener(\"message\"",".onmessage","\"onmessage\"","'onmessage'"],
         "API Call": ["api/",".post(",".get(",".put(",".patch(",".delete(",".open(\"GET\"",".open(\"POST\"",".open(\"PUT\"",".open(\"PATCH\"",".open(\"DELETE\"","fetch("],
         "document.write()": "document.write(",
         "document.writeln()": "document.writeln(",
