@@ -72,7 +72,9 @@ def read_file(name, type):
         else:
             exception("Invalid data type", "read_file")
             exit(0)
-
+        
+        file.close()
+        
         return data
     except Exception as error:
         exception(error, inspect.currentframe().f_code.co_name)
